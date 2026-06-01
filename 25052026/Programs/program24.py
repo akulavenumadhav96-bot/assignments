@@ -1,0 +1,5 @@
+decimal=int(input("Enter a decimal velue:"))
+print("The decimal value is",decimal,"is:")
+print(bin(decimal),"in binary")
+print(oct(decimal),"in octal")
+print(hex(decimal),"in hexadecimal")
